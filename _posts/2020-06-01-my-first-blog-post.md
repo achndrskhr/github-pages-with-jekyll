@@ -1,5 +1,5 @@
 ---
-title: "All-about-me"
+title: "All about me"
 date: 2020-06-01
 ---
 
