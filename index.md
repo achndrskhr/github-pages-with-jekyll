@@ -1,3 +1,2 @@
-# Ananya Chandrasekhar
 
 Welcome!
