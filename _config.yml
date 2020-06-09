@@ -1,9 +1,9 @@
 theme: minima
-title: All about me
+title: ananya chandrasekhar's apcs project
 author: achndrskhr
 email: achandrasekhar@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  This is a website all about me. It will include my name, a picture, my social media information, and a brag sheet.
+  this is a website all about me. it will include my name, a picture, my social media information, and a brag sheet.
 
 # social links
 github_username:  achndrskhr # DO NOT include the @ character, or else the build will fail!
